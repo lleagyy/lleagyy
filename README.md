@@ -1,19 +1,52 @@
-## Hi there 👋 I'm Youcef
+<div align="center">
+```
+██╗     ██╗     ███████╗ █████╗  ██████╗██╗   ██╗
+██║     ██║     ██╔════╝██╔══██╗██╔════╝╚██╗ ██╔╝
+██║     ██║     █████╗  ███████║██║  ███╗╚████╔╝ 
+██║     ██║     ██╔══╝  ██╔══██║██║   ██║ ╚██╔╝  
+███████╗███████╗███████╗██║  ██║╚██████╔╝  ██║   
+╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝ ╚═════╝   ╚═╝   
+```
 
-🔐 16 y/o · CS student · Spain  
-💻 JavaScript · Python · HTML & CSS  
-🎬 Video editing with Adobe Premiere  
-🔍 Learning offensive security & web pentesting  
+### `whoami`
+**16 y/o · CS Student · Spain**
+Offensive security learner · Web developer · Video editor
 
-### 🛠️ Tech Stack
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+[![Portfolio](https://img.shields.io/badge/Portfolio-lleagyy.github.io-9b30ff?style=flat-square&logo=github&logoColor=white)](https://lleagyy.github.io/youcef)
+[![Discord](https://img.shields.io/badge/Discord-lleagy-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com)
 
-### 📊 GitHub Stats
+</div>
+
+---
+```bash
+$ cat /etc/youcef/skills.txt
+```
+
+**💻 Development**
+`JavaScript` `Python` `HTML & CSS` `Node.js` `Bash`
+
+**🔐 Security**
+`Nmap` `Burp Suite` `SQLmap` `Recon` `OSINT` `Kali Linux`
+
+**🎬 Creative**
+`Adobe Premiere Pro` `Spline 3D` `UI/UX`
+
+---
+```bash
+$ ls ./projects/
+```
+
+| Project | Stack | Link |
+|---|---|---|
+| 🤖 Discord Bot | JS · Node.js · Discord.js | [→ repo](https://github.com/lleagyy) |
+| 🌐 Portfolio | HTML · CSS · JS · Spline | [→ live](https://lleagyy.github.io/youcef) |
+| 🎮 Browser Game | JS · HTML · CSS | [→ repo](https://github.com/lleagyy) |
+
+---
+
+<div align="center">
+
 ![stats](https://github-readme-stats.vercel.app/api?username=lleagyy&show_icons=true&theme=tokyonight&hide_border=true)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lleagyy&theme=tokyonight&hide_border=true&layout=compact)
 
-### 🌐 Portfolio
-[lleagyy.github.io/youcef](https://lleagyy.github.io/youcef)
+</div>
